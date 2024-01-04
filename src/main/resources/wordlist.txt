@@ -1,10 +1,8 @@
 above
-abuse
 acres
 acute
 admit
 adopt
-adult
 advice
 agent
 agree
@@ -133,7 +131,6 @@ course
 court
 cover
 covers
-crazy
 cream
 create
 credit
@@ -173,7 +170,6 @@ device
 differ
 dinner
 direct
-dirty
 discussion
 doctor
 doll
@@ -316,11 +312,9 @@ bart
 homer
 lisa
 marge
-maggie
 grass
 great
 green
-gross
 ground
 group
 growth
@@ -381,8 +375,6 @@ joseph
 judge
 junior
 kids
-killed
-knife
 label
 labor
 large
@@ -479,13 +471,11 @@ motor
 mount
 mouth
 moving
-murder
 museum
 music
 mutual
 myself
 mysterious
-naked
 narrow
 nasty
 nation
@@ -507,7 +497,6 @@ notion
 novel
 number
 nurse
-nuts
 object
 obtain
 occasionally
@@ -690,7 +679,6 @@ serve
 server
 settle
 severe
-sexual
 shake
 shaking
 shall
@@ -719,7 +707,6 @@ simple
 simplest
 simply
 single
-sister
 sixth
 skill
 sleep
@@ -910,7 +897,6 @@ winner
 winter
 within
 wolf
-woman
 wonder
 worker
 world
